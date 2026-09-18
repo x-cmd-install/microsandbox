@@ -79,8 +79,8 @@ total:
   openIssue: 0
   commit: 0
 graphqlErrors:
-  - Could not resolve to a Repository with the name 'addozhang/microsandbox'.
-  - Could not resolve to a Repository with the name 'addozhang/microsandbox'.
+  - Could not resolve to a Repository with the name 'superradcompany/microsandbox'.
+  - Could not resolve to a Repository with the name 'superradcompany/microsandbox'.
 ---
 ---
 

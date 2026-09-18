@@ -12,7 +12,7 @@ x install microsandbox
 
 ## Source
 
-- **Upstream**: <https://github.com/addozhang/microsandbox>
+- **Upstream**: <https://github.com/superradcompany/microsandbox>
 - **License**: NOASSERTION
 
 ## Popularity

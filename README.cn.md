@@ -12,7 +12,7 @@ x install microsandbox
 
 ## 源代码
 
-- **上游仓库**: <https://github.com/addozhang/microsandbox>
+- **上游仓库**: <https://github.com/superradcompany/microsandbox>
 - **许可证**: NOASSERTION
 
 ## 流行度
