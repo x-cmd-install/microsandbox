@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-🧱 Easy fast local-first microVM runtime and library
+🧱 fast branchable micro virtual machines for any workload
 
 [![x-cmd/install — microsandbox Code Quality Monitoring Repo Card](https://repo.x-cmd.io/microsandbox.svg?lang=zh)](https://x-cmd.com/install/microsandbox)
 
@@ -38,22 +38,22 @@ x install microsandbox
 
 ## 流行度
 
-- **Star**: 8,300 · **Fork**: 443 · **开放 issue**: 318 · **贡献者**: 54
+- **Star**: 8,304 · **Fork**: 444 · **开放 issue**: 318 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 64 · **已合并 PR**: 1089 · **开放 PR**: 38 · **已关闭 issue**: 263 · **开放 issue**: 55 · **提交数**: 1158
+- **发布数**: 64 · **已合并 PR**: 1089 · **开放 PR**: 40 · **已关闭 issue**: 263 · **开放 issue**: 55 · **提交数**: 1158
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 9 | 128 | 18 | 7 | 19 | 98 |
-| last60d | 2026-07-22 | 15 | 290 | 33 | 35 | 33 | 275 |
-| 90d | 2026-06-22 | 23 | 426 | 35 | 60 | 39 | 417 |
-| last180d | 2026-03-24 | 50 | 796 | 38 | 163 | 52 | 786 |
-| 360d | 2025-09-25 | 53 | 872 | 38 | 194 | 53 | 805 |
-| last720d | 2024-09-30 | 64 | 1089 | 38 | 263 | 55 | 1158 |
+| 30d | 2026-08-22 | 8 | 121 | 20 | 6 | 19 | 98 |
+| last60d | 2026-07-23 | 15 | 288 | 35 | 35 | 33 | 275 |
+| 90d | 2026-06-23 | 22 | 419 | 37 | 59 | 39 | 417 |
+| last180d | 2026-03-25 | 50 | 795 | 40 | 163 | 52 | 786 |
+| 360d | 2025-09-26 | 53 | 872 | 40 | 194 | 53 | 805 |
+| last720d | 2024-10-01 | 64 | 1089 | 40 | 263 | 55 | 1158 |
 
 ## Release 资产
 
@@ -102,4 +102,4 @@ microsandbox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T06:23:56Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T06:24:14Z._
