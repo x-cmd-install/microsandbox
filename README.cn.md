@@ -2,9 +2,9 @@
 
 [English version](./README.md)
 
-🧱 fast branchable micro virtual machines for any workload
+🧱 fast branchable microVM for any workload
 
-[![x-cmd/install — microsandbox Code Quality Monitoring Repo Card](https://repo.x-cmd.io/microsandbox.svg?lang=zh)](https://x-cmd.com/install/microsandbox)
+[![x-cmd/install — microsandbox Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/microsandbox.svg?lang=zh)](https://x-cmd.com/install/microsandbox)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install microsandbox
 
 ## 代码洞察
 
-合计: **422,675** 行代码（覆盖前 5 种语言、共 **1285** 个文件）。
+合计: **423,431** 行代码（覆盖前 5 种语言、共 **1288** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 334,323 | 15,885 | 36,700 | 855 |
+| Rust | 334,998 | 15,927 | 36,810 | 857 |
 | Json | 29,780 | 0 | 0 | 67 |
 | Go | 19,299 | 3,823 | 2,339 | 86 |
-| Python | 15,313 | 553 | 2,533 | 127 |
+| Python | 15,394 | 562 | 2,543 | 128 |
 | TypeScript | 15,281 | 3,613 | 1,735 | 150 |
 
 ## 源代码
@@ -38,22 +38,22 @@ x install microsandbox
 
 ## 流行度
 
-- **Star**: 8,370 · **Fork**: 449 · **开放 issue**: 320 · **贡献者**: 56
+- **Star**: 8,390 · **Fork**: 449 · **开放 issue**: 321 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 64 · **已合并 PR**: 1099 · **开放 PR**: 34 · **已关闭 issue**: 264 · **开放 issue**: 56 · **提交数**: 1185
+- **发布数**: 64 · **已合并 PR**: 1101 · **开放 PR**: 34 · **已关闭 issue**: 266 · **开放 issue**: 55 · **提交数**: 1187
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 7 | 123 | 15 | 6 | 21 | 113 |
-| last60d | 2026-07-24 | 15 | 295 | 29 | 35 | 34 | 290 |
-| 90d | 2026-06-24 | 22 | 418 | 31 | 59 | 40 | 432 |
-| last180d | 2026-03-26 | 50 | 803 | 34 | 164 | 53 | 801 |
-| 360d | 2025-09-27 | 53 | 882 | 34 | 195 | 54 | 820 |
-| last720d | 2024-10-02 | 64 | 1099 | 34 | 264 | 56 | 1185 |
+| 30d | 2026-08-24 | 7 | 116 | 14 | 7 | 20 | 115 |
+| last60d | 2026-07-25 | 15 | 294 | 27 | 37 | 33 | 292 |
+| 90d | 2026-06-25 | 21 | 416 | 31 | 61 | 39 | 434 |
+| last180d | 2026-03-27 | 50 | 800 | 34 | 166 | 52 | 803 |
+| 360d | 2025-09-28 | 53 | 884 | 34 | 197 | 53 | 822 |
+| last720d | 2024-10-03 | 64 | 1097 | 34 | 266 | 55 | 1187 |
 
 ## Release 资产
 
@@ -102,4 +102,4 @@ microsandbox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:24:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:36:44Z._
