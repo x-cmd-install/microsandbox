@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-🧱 fast branchable microVM for any workload
+🧱 easy fast branchable microVM runtime and library for any workload
 
 [![x-cmd/install — microsandbox Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/microsandbox.svg)](https://x-cmd.com/install/microsandbox)
 
@@ -38,22 +38,22 @@ Total: **430,163** lines of code across **1319** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,434 · **Forks**: 454 · **Open issues**: 327 · **Contributors**: 57
+- **Stars**: 8,442 · **Forks**: 454 · **Open issues**: 327 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 1130 · **Open PRs**: 36 · **Closed issues**: 269 · **Open issues**: 58 · **Commits**: 1203
+- **Releases**: 65 · **Merged PRs**: 1132 · **Open PRs**: 38 · **Closed issues**: 269 · **Open issues**: 58 · **Commits**: 1203
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 7 | 135 | 20 | 10 | 23 | 131 |
-| last60d | 2026-07-28 | 15 | 312 | 26 | 35 | 35 | 308 |
-| 90d | 2026-06-28 | 21 | 423 | 33 | 61 | 41 | 450 |
-| last180d | 2026-03-30 | 49 | 821 | 36 | 169 | 55 | 819 |
-| 360d | 2025-10-01 | 54 | 913 | 36 | 198 | 56 | 838 |
-| last720d | 2024-10-06 | 65 | 1126 | 36 | 269 | 58 | 1198 |
+| 30d | 2026-08-28 | 7 | 136 | 22 | 10 | 23 | 131 |
+| last60d | 2026-07-29 | 15 | 309 | 28 | 34 | 35 | 308 |
+| 90d | 2026-06-29 | 20 | 423 | 35 | 59 | 41 | 450 |
+| last180d | 2026-03-31 | 49 | 820 | 38 | 168 | 55 | 819 |
+| 360d | 2025-10-02 | 54 | 915 | 38 | 198 | 56 | 838 |
+| last720d | 2024-10-07 | 65 | 1126 | 38 | 269 | 58 | 1198 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for microsandbox lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:57:16Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:25:07Z._
