@@ -14,15 +14,15 @@ x install microsandbox
 
 ## Code insight
 
-Total: **496,941** lines of code across **1471** files in the top 5 languages.
+Total: **500,002** lines of code across **1478** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 397,250 | 18,537 | 41,534 | 981 |
+| Rust | 400,238 | 18,659 | 41,879 | 988 |
 | Json | 30,862 | 0 | 0 | 72 |
 | Go | 21,955 | 4,081 | 2,540 | 102 |
 | Python | 19,071 | 693 | 2,982 | 154 |
-| TypeScript | 17,448 | 3,807 | 1,927 | 162 |
+| TypeScript | 17,521 | 3,809 | 1,947 | 162 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **496,941** lines of code across **1471** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.11` (2026-10-24)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 8,854 · **Forks**: 497 · **Open issues**: 407 · **Contributors**: 72
+- **Stars**: 8,869 · **Forks**: 498 · **Open issues**: 412 · **Contributors**: 74
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1291 · **Open PRs**: 58 · **Closed issues**: 321 · **Open issues**: 86 · **Commits**: 1345
+- **Releases**: 73 · **Merged PRs**: 1297 · **Open PRs**: 56 · **Closed issues**: 325 · **Open issues**: 87 · **Commits**: 1351
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 8 | 138 | 35 | 29 | 38 | 116 |
-| last60d | 2026-08-30 | 14 | 285 | 43 | 54 | 56 | 234 |
-| 90d | 2026-07-31 | 22 | 459 | 50 | 84 | 65 | 430 |
-| last180d | 2026-05-02 | 43 | 867 | 57 | 180 | 76 | 850 |
-| 360d | 2025-11-03 | 62 | 1074 | 58 | 245 | 84 | 978 |
-| last720d | 2024-11-08 | 73 | 1269 | 58 | 321 | 86 | 1323 |
+| 30d | 2026-09-30 | 7 | 137 | 33 | 31 | 38 | 122 |
+| last60d | 2026-08-31 | 14 | 285 | 41 | 58 | 57 | 240 |
+| 90d | 2026-08-01 | 22 | 464 | 47 | 88 | 65 | 436 |
+| last180d | 2026-05-03 | 43 | 869 | 55 | 184 | 77 | 856 |
+| 360d | 2025-11-04 | 62 | 1079 | 56 | 249 | 85 | 984 |
+| last720d | 2024-11-09 | 73 | 1273 | 56 | 325 | 87 | 1329 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for microsandbox lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:59:14Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T07:00:55Z._
