@@ -33,27 +33,27 @@ Total: **507,077** lines of code across **1493** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.13` (2026-11-01)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 8,908 · **Forks**: 503 · **Open issues**: 423 · **Contributors**: 74
+- **Stars**: 8,920 · **Forks**: 505 · **Open issues**: 429 · **Contributors**: 74
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 1303 · **Open PRs**: 64 · **Closed issues**: 328 · **Open issues**: 95 · **Commits**: 1358
+- **Releases**: 75 · **Merged PRs**: 1304 · **Open PRs**: 67 · **Closed issues**: 329 · **Open issues**: 100 · **Commits**: 1359
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 7 | 112 | 38 | 28 | 44 | 89 |
-| last60d | 2026-09-03 | 16 | 269 | 49 | 58 | 64 | 229 |
-| 90d | 2026-08-04 | 24 | 446 | 55 | 89 | 72 | 413 |
-| last180d | 2026-05-06 | 44 | 862 | 63 | 184 | 84 | 850 |
-| 360d | 2025-11-07 | 64 | 1084 | 64 | 251 | 92 | 990 |
-| last720d | 2024-11-12 | 75 | 1273 | 64 | 328 | 95 | 1333 |
+| 30d | 2026-10-04 | 7 | 113 | 41 | 29 | 48 | 90 |
+| last60d | 2026-09-04 | 16 | 261 | 52 | 59 | 68 | 230 |
+| 90d | 2026-08-05 | 24 | 445 | 58 | 90 | 77 | 414 |
+| last180d | 2026-05-07 | 44 | 856 | 66 | 183 | 88 | 851 |
+| 360d | 2025-11-08 | 64 | 1085 | 67 | 252 | 97 | 991 |
+| last720d | 2024-11-13 | 75 | 1273 | 67 | 329 | 100 | 1332 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for microsandbox lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:23:57Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:06:07Z._
