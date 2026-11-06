@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2167232,
       "digest": "sha256:72cb917467247da7a93cf180376e83dcdd60dca3cee8eeae7435f5843ee5d563",
-      "download_count": 99,
+      "download_count": 134,
       "created_at": "2026-11-01T15:37:21Z",
       "updated_at": "2026-11-01T15:37:22Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/agentd-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2593728,
       "digest": "sha256:0412319587f9804def471e75fe43d6f9d3ce6fb704d27a4a56db1618224a1f1a",
-      "download_count": 108,
+      "download_count": 181,
       "created_at": "2026-11-01T15:37:21Z",
       "updated_at": "2026-11-01T15:37:22Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/agentd-x86_64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3001,
       "digest": "sha256:5902f8a04debc926f2b4bfa9ec36248e75cdd9b7817b91246ae0ee03a2b2f67b",
-      "download_count": 1940,
+      "download_count": 2220,
       "created_at": "2026-11-01T15:37:21Z",
       "updated_at": "2026-11-01T15:37:21Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/checksums.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15110,
       "digest": "sha256:19a600d2580a1bfb2733708bfb307fb83e0d83e7a6fad4bfac4c0e0f62d9ceb4",
-      "download_count": 70,
+      "download_count": 94,
       "created_at": "2026-11-01T15:37:21Z",
       "updated_at": "2026-11-01T15:37:21Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/install.ps1"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12303,
       "digest": "sha256:800af0b3ee6343f25a8f4bb95e1b7cc300cf08812a47aaad4c9fa6e577032be7",
-      "download_count": 415,
+      "download_count": 487,
       "created_at": "2026-11-01T15:37:21Z",
       "updated_at": "2026-11-01T15:37:21Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/install.sh"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 24933536,
       "digest": "sha256:c6f21a1af7466cdb5a94ee6b9d90010c9b8685fdee8814c5a6fa32094e226c67",
-      "download_count": 19,
+      "download_count": 31,
       "created_at": "2026-11-01T15:37:22Z",
       "updated_at": "2026-11-01T15:37:23Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/libkrunfw-darwin-aarch64.dylib"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21628880,
       "digest": "sha256:3854efcd3fe625528fa00207d97586d9790db8c436bb6881a43986604336d18e",
-      "download_count": 21,
+      "download_count": 24,
       "created_at": "2026-11-01T15:37:22Z",
       "updated_at": "2026-11-01T15:37:24Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/libkrunfw-linux-x86_64.so"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 33302016,
       "digest": "sha256:e36ffffce04198a5ed633b898d5a21fb85a8b73ac44c4a0917fe9b9274bba5c1",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-01T15:37:24Z",
       "updated_at": "2026-11-01T15:37:27Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/libmicrosandbox_go_ffi-windows-amd64.dll"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 12620,
       "digest": "sha256:d5572c0e55f8fa4a7b948b3f2b5816f114a2e099464e292d367a1d3e33b1235c",
-      "download_count": 17,
+      "download_count": 20,
       "created_at": "2026-11-01T15:37:25Z",
       "updated_at": "2026-11-01T15:37:25Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/manifest.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 32158610,
       "digest": "sha256:5eb53ca1d6beb36caa64d19602284b9ce37872eff340a8db0542ab91b5808c96",
-      "download_count": 391,
+      "download_count": 470,
       "created_at": "2026-11-01T15:37:26Z",
       "updated_at": "2026-11-01T15:37:27Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/microsandbox-darwin-aarch64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 33611186,
       "digest": "sha256:bd95fbc51954c2c20077c782262157bf5aed17b3717c5d4494d9d34035f3432c",
-      "download_count": 81,
+      "download_count": 102,
       "created_at": "2026-11-01T15:37:27Z",
       "updated_at": "2026-11-01T15:37:30Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/microsandbox-linux-aarch64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 30542710,
       "digest": "sha256:c41aeefc050e97f42cd55ce55cc139efc13c6ee2dc371e8d30c325a305a5c3b1",
-      "download_count": 2290,
+      "download_count": 2788,
       "created_at": "2026-11-01T15:37:27Z",
       "updated_at": "2026-11-01T15:37:30Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/microsandbox-linux-x86_64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 32194015,
       "digest": "sha256:e8a5b88e9415f54709ae7f23b0e19acd430d482a4891f13fd79bfe2fa094e814",
-      "download_count": 32,
+      "download_count": 36,
       "created_at": "2026-11-01T15:37:27Z",
       "updated_at": "2026-11-01T15:37:30Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/microsandbox-windows-aarch64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 28415639,
       "digest": "sha256:5d18afc0b5116e18ed9cedbaba029b711976bd91a31fa21ba9debd8625ccb6df",
-      "download_count": 37,
+      "download_count": 51,
       "created_at": "2026-11-01T15:37:28Z",
       "updated_at": "2026-11-01T15:37:30Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/microsandbox-windows-x86_64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 28414488,
       "digest": "sha256:f6de31fe34a600f04eb4548a6e5aeaef96cf0a1cbc6fccf6651bb3fae489d22a",
-      "download_count": 148,
+      "download_count": 187,
       "created_at": "2026-11-01T15:37:30Z",
       "updated_at": "2026-11-01T15:37:32Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/microsandbox-windows-x86_64.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 40585824,
       "digest": "sha256:ac657a3b145f5bee3672a997922fc88ad8dacff702ee593c8cd33d52c0a971c7",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-01T15:37:30Z",
       "updated_at": "2026-11-01T15:37:33Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/msb-darwin-aarch64"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 44620040,
       "digest": "sha256:b773279f86c58b5d76760268af43dfc00a8feecb427c22c8a375a3a71e9ae7ca",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-01T15:37:30Z",
       "updated_at": "2026-11-01T15:37:34Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/msb-linux-aarch64"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 54239160,
       "digest": "sha256:cf2c59c00c447a6d3251a36b903fff32303f9c32e2456a5657f99a28f7eed95b",
-      "download_count": 44,
+      "download_count": 50,
       "created_at": "2026-11-01T15:37:30Z",
       "updated_at": "2026-11-01T15:37:34Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/msb-linux-x86_64"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 8645128,
       "digest": "sha256:47cc1404297267b6dca4f744ce56c533ea9b82b4953ca8a3f993b3679684e18d",
-      "download_count": 9,
+      "download_count": 25,
       "created_at": "2026-11-01T15:37:32Z",
       "updated_at": "2026-11-01T15:37:33Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/msb-metrics-linux-x86_64"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 6835712,
       "digest": "sha256:27bb0ad42a8ce6c0ac31ea8bf128179d695635a20c2ab30deeb81e9254d38441",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-01T15:37:33Z",
       "updated_at": "2026-11-01T15:37:33Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/msb-metrics-windows-aarch64.exe"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 48280576,
       "digest": "sha256:62f7935027d418085b5549e2e3f0213595c01f7f45a829e362b1bba26c45fc9d",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-01T15:37:34Z",
       "updated_at": "2026-11-01T15:37:36Z",
       "browser_download_url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.13/msb-windows-x86_64.exe"
