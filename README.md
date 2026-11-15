@@ -38,22 +38,22 @@ Total: **531,424** lines of code across **1559** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,060 · **Forks**: 521 · **Open issues**: 446 · **Contributors**: 74
+- **Stars**: 9,068 · **Forks**: 522 · **Open issues**: 454 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1329 · **Open PRs**: 78 · **Closed issues**: 341 · **Open issues**: 105 · **Commits**: 1379
+- **Releases**: 77 · **Merged PRs**: 1338 · **Open PRs**: 79 · **Closed issues**: 344 · **Open issues**: 110 · **Commits**: 1379
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 7 | 79 | 47 | 21 | 44 | 83 |
-| last60d | 2026-09-15 | 16 | 253 | 60 | 66 | 66 | 226 |
-| 90d | 2026-08-16 | 25 | 416 | 69 | 84 | 78 | 388 |
-| last180d | 2026-05-18 | 44 | 845 | 77 | 174 | 91 | 842 |
-| 360d | 2025-11-19 | 66 | 1109 | 78 | 261 | 102 | 1010 |
-| last720d | 2024-11-24 | 77 | 1290 | 78 | 341 | 105 | 1339 |
+| 30d | 2026-10-16 | 7 | 75 | 48 | 20 | 47 | 83 |
+| last60d | 2026-09-16 | 16 | 242 | 60 | 65 | 70 | 226 |
+| 90d | 2026-08-17 | 25 | 406 | 69 | 83 | 81 | 388 |
+| last180d | 2026-05-19 | 44 | 852 | 78 | 176 | 96 | 842 |
+| 360d | 2025-11-20 | 66 | 1118 | 79 | 264 | 107 | 1010 |
+| last720d | 2024-11-25 | 77 | 1296 | 79 | 343 | 110 | 1339 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for microsandbox lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:19:53Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:58:32Z._
