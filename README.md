@@ -32,76 +32,76 @@ Total: **666,782** lines of code across **2003** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.1` (2026-11-23)
+- **Latest**: `v0.8.2` (2026-11-24)
 - **Last commit**: 2026-11-24
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 9,202 · **Forks**: 536 · **Open issues**: 473 · **Contributors**: 80
+- **Stars**: 9,214 · **Forks**: 536 · **Open issues**: 472 · **Contributors**: 80
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1397 · **Open PRs**: 84 · **Closed issues**: 353 · **Open issues**: 120 · **Commits**: 1432
+- **Releases**: 80 · **Merged PRs**: 1402 · **Open PRs**: 85 · **Closed issues**: 352 · **Open issues**: 120 · **Commits**: 1434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 6 | 84 | 56 | 16 | 51 | 81 |
-| last60d | 2026-09-25 | 14 | 248 | 66 | 66 | 76 | 218 |
-| 90d | 2026-08-26 | 21 | 397 | 74 | 86 | 89 | 344 |
-| last180d | 2026-05-28 | 44 | 858 | 83 | 173 | 105 | 820 |
-| 360d | 2025-11-29 | 68 | 1175 | 84 | 273 | 117 | 1062 |
-| last720d | 2024-12-04 | 78 | 1340 | 84 | 346 | 120 | 1383 |
+| 30d | 2026-10-26 | 7 | 88 | 57 | 16 | 49 | 83 |
+| last60d | 2026-09-26 | 15 | 252 | 67 | 66 | 76 | 220 |
+| 90d | 2026-08-27 | 22 | 400 | 75 | 86 | 89 | 346 |
+| last180d | 2026-05-29 | 44 | 851 | 84 | 169 | 105 | 822 |
+| 360d | 2025-11-30 | 69 | 1180 | 85 | 272 | 117 | 1064 |
+| last720d | 2024-12-05 | 79 | 1345 | 85 | 344 | 120 | 1380 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [agentd-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/agentd-aarch64) | 2.3 MiB | `other` |
-| [agentd-x86_64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/agentd-x86_64) | 2.7 MiB | `other` |
-| [checksums.sha256](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/checksums.sha256) | 4.1 KiB | `other` |
-| [install.ps1](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/install.ps1) | 18.1 KiB | `other` |
-| [install.sh](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/install.sh) | 20.9 KiB | `other` |
-| [libkrunfw-darwin-aarch64.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libkrunfw-darwin-aarch64.dylib) | 23.8 MiB | `native/darwin/arm64` |
-| [libkrunfw-linux-aarch64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libkrunfw-linux-aarch64.so) | 23.8 MiB | `native/linux/arm64` |
-| [libkrunfw-linux-x86_64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libkrunfw-linux-x86_64.so) | 20.6 MiB | `native/linux/x64` |
-| [libkrunfw-windows-aarch64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libkrunfw-windows-aarch64.dll) | 23.7 MiB | `native/win/arm64` |
-| [libkrunfw-windows-x86_64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libkrunfw-windows-x86_64.dll) | 20.7 MiB | `native/win/x64` |
-| [libmicrosandbox_go_ffi-darwin-arm64.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libmicrosandbox_go_ffi-darwin-arm64.dylib) | 32.2 MiB | `native/darwin/arm64` |
-| [libmicrosandbox_go_ffi-linux-amd64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libmicrosandbox_go_ffi-linux-amd64.so) | 43.4 MiB | `native/linux/x64` |
-| [libmicrosandbox_go_ffi-linux-arm64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libmicrosandbox_go_ffi-linux-arm64.so) | 35.7 MiB | `native/linux/arm64` |
-| [libmicrosandbox_go_ffi-windows-amd64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libmicrosandbox_go_ffi-windows-amd64.dll) | 38.2 MiB | `native/win/x64` |
-| [libmicrosandbox_go_ffi-windows-arm64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/libmicrosandbox_go_ffi-windows-arm64.dll) | 32.4 MiB | `native/win/arm64` |
-| [manifest.json](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/manifest.json) | 14.6 KiB | `other` |
-| [microsandbox-darwin-aarch64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-darwin-aarch64.tar.gz) | 33.8 MiB | `native/darwin/arm64` |
-| [microsandbox-go-local-aarch64-apple-darwin.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-local-aarch64-apple-darwin.dylib) | 30.8 MiB | `native/darwin/arm64` |
-| [microsandbox-go-local-aarch64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-local-aarch64-pc-windows-msvc.dll) | 30.8 MiB | `native/win/arm64` |
-| [microsandbox-go-local-aarch64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-local-aarch64-unknown-linux-gnu.so) | 33.6 MiB | `native/linux/arm64/glibc` |
-| [microsandbox-go-local-x86_64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-local-x86_64-pc-windows-msvc.dll) | 36.3 MiB | `native/win/x64` |
-| [microsandbox-go-local-x86_64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-local-x86_64-unknown-linux-gnu.so) | 40.9 MiB | `native/linux/x64/glibc` |
-| [microsandbox-go-remote-aarch64-apple-darwin.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-remote-aarch64-apple-darwin.dylib) | 12.5 MiB | `native/darwin/arm64` |
-| [microsandbox-go-remote-aarch64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-remote-aarch64-pc-windows-msvc.dll) | 12.3 MiB | `native/win/arm64` |
-| [microsandbox-go-remote-aarch64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-remote-aarch64-unknown-linux-gnu.so) | 13.5 MiB | `native/linux/arm64/glibc` |
-| [microsandbox-go-remote-x86_64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-remote-x86_64-pc-windows-msvc.dll) | 14.4 MiB | `native/win/x64` |
-| [microsandbox-go-remote-x86_64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-go-remote-x86_64-unknown-linux-gnu.so) | 16.7 MiB | `native/linux/x64/glibc` |
-| [microsandbox-linux-aarch64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-linux-aarch64.tar.gz) | 35.3 MiB | `native/linux/arm64` |
-| [microsandbox-linux-x86_64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-linux-x86_64.tar.gz) | 32.9 MiB | `native/linux/x64` |
-| [microsandbox-windows-aarch64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-windows-aarch64.tar.gz) | 33.8 MiB | `native/win/arm64` |
-| [microsandbox-windows-aarch64.zip](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-windows-aarch64.zip) | 33.8 MiB | `native/win/arm64` |
-| [microsandbox-windows-x86_64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-windows-x86_64.tar.gz) | 31.3 MiB | `native/win/x64` |
-| [microsandbox-windows-x86_64.zip](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/microsandbox-windows-x86_64.zip) | 31.3 MiB | `native/win/x64` |
-| [msb-darwin-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-darwin-aarch64) | 44.9 MiB | `native/darwin/arm64` |
-| [msb-linux-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-linux-aarch64) | 49.2 MiB | `native/linux/arm64` |
-| [msb-linux-x86_64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-linux-x86_64) | 60.1 MiB | `native/linux/x64` |
-| [msb-metrics-darwin-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-metrics-darwin-aarch64) | 6.6 MiB | `native/darwin/arm64` |
-| [msb-metrics-linux-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-metrics-linux-aarch64) | 7.4 MiB | `native/linux/arm64` |
-| [msb-metrics-linux-x86_64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-metrics-linux-x86_64) | 8.2 MiB | `native/linux/x64` |
-| [msb-metrics-windows-aarch64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-metrics-windows-aarch64.exe) | 6.5 MiB | `native/win/arm64` |
-| [msb-metrics-windows-x86_64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-metrics-windows-x86_64.exe) | 7.3 MiB | `native/win/x64` |
-| [msb-windows-aarch64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-windows-aarch64.exe) | 45.3 MiB | `native/win/arm64` |
-| [msb-windows-x86_64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.1/msb-windows-x86_64.exe) | 53.7 MiB | `native/win/x64` |
+| [agentd-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/agentd-aarch64) | 2.3 MiB | `other` |
+| [agentd-x86_64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/agentd-x86_64) | 2.7 MiB | `other` |
+| [checksums.sha256](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/checksums.sha256) | 4.1 KiB | `other` |
+| [install.ps1](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/install.ps1) | 18.1 KiB | `other` |
+| [install.sh](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/install.sh) | 20.9 KiB | `other` |
+| [libkrunfw-darwin-aarch64.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libkrunfw-darwin-aarch64.dylib) | 23.8 MiB | `native/darwin/arm64` |
+| [libkrunfw-linux-aarch64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libkrunfw-linux-aarch64.so) | 23.8 MiB | `native/linux/arm64` |
+| [libkrunfw-linux-x86_64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libkrunfw-linux-x86_64.so) | 20.6 MiB | `native/linux/x64` |
+| [libkrunfw-windows-aarch64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libkrunfw-windows-aarch64.dll) | 23.7 MiB | `native/win/arm64` |
+| [libkrunfw-windows-x86_64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libkrunfw-windows-x86_64.dll) | 20.7 MiB | `native/win/x64` |
+| [libmicrosandbox_go_ffi-darwin-arm64.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libmicrosandbox_go_ffi-darwin-arm64.dylib) | 32.1 MiB | `native/darwin/arm64` |
+| [libmicrosandbox_go_ffi-linux-amd64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libmicrosandbox_go_ffi-linux-amd64.so) | 43.5 MiB | `native/linux/x64` |
+| [libmicrosandbox_go_ffi-linux-arm64.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libmicrosandbox_go_ffi-linux-arm64.so) | 35.8 MiB | `native/linux/arm64` |
+| [libmicrosandbox_go_ffi-windows-amd64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libmicrosandbox_go_ffi-windows-amd64.dll) | 38.2 MiB | `native/win/x64` |
+| [libmicrosandbox_go_ffi-windows-arm64.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/libmicrosandbox_go_ffi-windows-arm64.dll) | 32.4 MiB | `native/win/arm64` |
+| [manifest.json](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/manifest.json) | 14.6 KiB | `other` |
+| [microsandbox-darwin-aarch64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-darwin-aarch64.tar.gz) | 33.9 MiB | `native/darwin/arm64` |
+| [microsandbox-go-local-aarch64-apple-darwin.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-local-aarch64-apple-darwin.dylib) | 30.7 MiB | `native/darwin/arm64` |
+| [microsandbox-go-local-aarch64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-local-aarch64-pc-windows-msvc.dll) | 30.8 MiB | `native/win/arm64` |
+| [microsandbox-go-local-aarch64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-local-aarch64-unknown-linux-gnu.so) | 33.7 MiB | `native/linux/arm64/glibc` |
+| [microsandbox-go-local-x86_64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-local-x86_64-pc-windows-msvc.dll) | 36.3 MiB | `native/win/x64` |
+| [microsandbox-go-local-x86_64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-local-x86_64-unknown-linux-gnu.so) | 40.9 MiB | `native/linux/x64/glibc` |
+| [microsandbox-go-remote-aarch64-apple-darwin.dylib](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-remote-aarch64-apple-darwin.dylib) | 12.5 MiB | `native/darwin/arm64` |
+| [microsandbox-go-remote-aarch64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-remote-aarch64-pc-windows-msvc.dll) | 12.3 MiB | `native/win/arm64` |
+| [microsandbox-go-remote-aarch64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-remote-aarch64-unknown-linux-gnu.so) | 13.5 MiB | `native/linux/arm64/glibc` |
+| [microsandbox-go-remote-x86_64-pc-windows-msvc.dll](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-remote-x86_64-pc-windows-msvc.dll) | 14.5 MiB | `native/win/x64` |
+| [microsandbox-go-remote-x86_64-unknown-linux-gnu.so](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-go-remote-x86_64-unknown-linux-gnu.so) | 16.8 MiB | `native/linux/x64/glibc` |
+| [microsandbox-linux-aarch64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-linux-aarch64.tar.gz) | 35.6 MiB | `native/linux/arm64` |
+| [microsandbox-linux-x86_64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-linux-x86_64.tar.gz) | 33.2 MiB | `native/linux/x64` |
+| [microsandbox-windows-aarch64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-windows-aarch64.tar.gz) | 34.1 MiB | `native/win/arm64` |
+| [microsandbox-windows-aarch64.zip](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-windows-aarch64.zip) | 34.1 MiB | `native/win/arm64` |
+| [microsandbox-windows-x86_64.tar.gz](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-windows-x86_64.tar.gz) | 31.5 MiB | `native/win/x64` |
+| [microsandbox-windows-x86_64.zip](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/microsandbox-windows-x86_64.zip) | 31.5 MiB | `native/win/x64` |
+| [msb-darwin-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-darwin-aarch64) | 45.3 MiB | `native/darwin/arm64` |
+| [msb-linux-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-linux-aarch64) | 49.8 MiB | `native/linux/arm64` |
+| [msb-linux-x86_64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-linux-x86_64) | 60.9 MiB | `native/linux/x64` |
+| [msb-metrics-darwin-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-metrics-darwin-aarch64) | 6.7 MiB | `native/darwin/arm64` |
+| [msb-metrics-linux-aarch64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-metrics-linux-aarch64) | 7.5 MiB | `native/linux/arm64` |
+| [msb-metrics-linux-x86_64](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-metrics-linux-x86_64) | 8.3 MiB | `native/linux/x64` |
+| [msb-metrics-windows-aarch64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-metrics-windows-aarch64.exe) | 6.6 MiB | `native/win/arm64` |
+| [msb-metrics-windows-x86_64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-metrics-windows-x86_64.exe) | 7.4 MiB | `native/win/x64` |
+| [msb-windows-aarch64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-windows-aarch64.exe) | 45.8 MiB | `native/win/arm64` |
+| [msb-windows-x86_64.exe](https://github.com/superradcompany/microsandbox/releases/download/v0.8.2/msb-windows-x86_64.exe) | 54.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -112,4 +112,4 @@ Install metadata for microsandbox lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:58:11Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:50:50Z._
