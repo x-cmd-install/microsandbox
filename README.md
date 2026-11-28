@@ -14,11 +14,11 @@ x install microsandbox
 
 ## Code insight
 
-Total: **667,793** lines of code across **2007** files in the top 5 languages.
+Total: **668,088** lines of code across **2007** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 534,232 | 24,241 | 51,066 | 1310 |
+| Rust | 534,513 | 24,254 | 51,084 | 1310 |
 | Python | 34,657 | 1,163 | 4,729 | 252 |
 | Json | 31,300 | 0 | 0 | 84 |
 | Go | 30,841 | 4,961 | 3,200 | 161 |
@@ -38,22 +38,22 @@ Total: **667,793** lines of code across **2007** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,237 · **Forks**: 537 · **Open issues**: 475 · **Contributors**: 80
+- **Stars**: 9,247 · **Forks**: 537 · **Open issues**: 480 · **Contributors**: 80
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 1408 · **Open PRs**: 84 · **Closed issues**: 354 · **Open issues**: 121 · **Commits**: 1438
+- **Releases**: 81 · **Merged PRs**: 1411 · **Open PRs**: 83 · **Closed issues**: 356 · **Open issues**: 124 · **Commits**: 1441
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 8 | 90 | 52 | 17 | 48 | 87 |
-| last60d | 2026-09-28 | 16 | 254 | 65 | 60 | 76 | 224 |
-| 90d | 2026-08-29 | 23 | 399 | 74 | 87 | 90 | 350 |
-| last180d | 2026-05-31 | 44 | 843 | 83 | 167 | 106 | 826 |
-| 360d | 2025-12-02 | 70 | 1186 | 84 | 274 | 118 | 1068 |
-| last720d | 2024-12-07 | 80 | 1351 | 84 | 346 | 121 | 1384 |
+| 30d | 2026-10-29 | 8 | 91 | 48 | 17 | 48 | 90 |
+| last60d | 2026-09-29 | 16 | 250 | 64 | 60 | 77 | 227 |
+| 90d | 2026-08-30 | 22 | 399 | 72 | 87 | 93 | 353 |
+| last180d | 2026-06-01 | 44 | 840 | 81 | 169 | 109 | 829 |
+| 360d | 2025-12-03 | 70 | 1189 | 83 | 276 | 121 | 1071 |
+| last720d | 2024-12-08 | 80 | 1353 | 83 | 348 | 124 | 1387 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for microsandbox lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:24:02Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:32:25Z._
