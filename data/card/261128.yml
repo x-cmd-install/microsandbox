@@ -1,0 +1,216 @@
+about:
+  description: "🧱 easy, fast, programmable and local-first microVM runtime and library"
+  license: Apache-2.0
+  homepage: https://docs.microsandbox.dev
+  head: fd3de11
+  archived: false
+  latestVersion: "v0.8.3"
+  latestRelease: "v0.8.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:31:11Z
+timeline:
+  created: 2024-10-03
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-26
+  lastPrerelease: 
+popularity:
+  star: 9247
+  watcher: 26
+  fork: 537
+  release: 81
+  contributor: 80
+  pullRequest: 1673
+  issue: 480
+language:
+  Rust: 23484582
+  Python: 1817259
+  Go: 1384338
+  TypeScript: 969934
+  JavaScript: 181950
+  Ruby: 124338
+  PowerShell: 110769
+  Shell: 104443
+  C: 86823
+  Just: 14134
+  C#: 1862
+  Dockerfile: 602
+totalBytes: 28281034
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 8
+    mergedPR: 91
+    openPR: 48
+    closedIssue: 17
+    openIssue: 48
+    commit: 90
+  last60d:
+    since: 2026-09-29
+    release: 16
+    mergedPR: 250
+    openPR: 64
+    closedIssue: 60
+    openIssue: 77
+    commit: 227
+  last90d:
+    since: 2026-08-30
+    release: 22
+    mergedPR: 399
+    openPR: 72
+    closedIssue: 87
+    openIssue: 93
+    commit: 353
+  last180d:
+    since: 2026-06-01
+    release: 44
+    mergedPR: 840
+    openPR: 81
+    closedIssue: 169
+    openIssue: 109
+    commit: 829
+  last360d:
+    since: 2025-12-03
+    release: 70
+    mergedPR: 1189
+    openPR: 83
+    closedIssue: 276
+    openIssue: 121
+    commit: 1071
+  last720d:
+    since: 2024-12-08
+    release: 80
+    mergedPR: 1353
+    openPR: 83
+    closedIssue: 348
+    openIssue: 124
+    commit: 1387
+total:
+  release: 81
+  mergedPR: 1411
+  openPR: 83
+  closedIssue: 356
+  openIssue: 124
+  commit: 1441
+---
+path: /home/runner/.x-repo/github.com/superradcompany/microsandbox
+collectedAt: 2026-11-28T08:32:18Z
+loc:
+  Rust:
+    code: 534513
+    comments: 24254
+    blanks: 51084
+    files: 1310
+  Python:
+    code: 34657
+    comments: 1163
+    blanks: 4729
+    files: 252
+  Json:
+    code: 31300
+    comments: 0
+    blanks: 0
+    files: 84
+  Go:
+    code: 30841
+    comments: 4961
+    blanks: 3200
+    files: 161
+  TypeScript:
+    code: 21231
+    comments: 4102
+    blanks: 2292
+    files: 200
+  JavaScript:
+    code: 4169
+    comments: 137
+    blanks: 154
+    files: 41
+  Ruby:
+    code: 2283
+    comments: 177
+    blanks: 323
+    files: 30
+  Sh:
+    code: 2242
+    comments: 263
+    blanks: 262
+    files: 22
+  PowerShell:
+    code: 2240
+    comments: 137
+    blanks: 182
+    files: 14
+  Toml:
+    code: 1678
+    comments: 182
+    blanks: 186
+    files: 51
+  CHeader:
+    code: 996
+    comments: 384
+    blanks: 205
+    files: 2
+  Svg:
+    code: 682
+    comments: 16
+    blanks: 79
+    files: 29
+  Css:
+    code: 668
+    comments: 92
+    blanks: 115
+    files: 1
+  C:
+    code: 187
+    comments: 14
+    blanks: 10
+    files: 2
+  Rakefile:
+    code: 167
+    comments: 72
+    blanks: 28
+    files: 1
+  Yaml:
+    code: 124
+    comments: 6
+    blanks: 0
+    files: 6
+  Sql:
+    code: 58
+    comments: 10
+    blanks: 1
+    files: 3
+  CSharp:
+    code: 35
+    comments: 4
+    blanks: 1
+    files: 1
+  Dockerfile:
+    code: 13
+    comments: 0
+    blanks: 5
+    files: 1
+  Autoconf:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4071
+    blanks: 1999
+    files: 46
+  Text:
+    code: 0
+    comments: 567
+    blanks: 0
+    files: 1
+total:
+  code: 669365
+  comments: 70258
+  blanks: 67469
+  files: 2259
+---
+
+---
